@@ -1,0 +1,17 @@
+{
+  "name": "af-ms-picker-backend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "@azure/msal-node": "^2.9.2",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.5",
+    "busboy": "^1.6.0"
+  }
+}
