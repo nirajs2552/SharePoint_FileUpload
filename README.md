@@ -1,5 +1,5 @@
 
-# AgentFleet — SharePoint Upload (Microsoft Login + File Picker v8 + OBO)
+SharePoint Upload (Microsoft Login + File Picker v8 + OBO)
 
 A minimal, production-friendly starter that adds **Microsoft (SharePoint/OneDrive) upload** as the 3rd option on your AgentFleet Upload page.
 
